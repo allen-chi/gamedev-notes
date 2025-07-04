@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Notes and things
 ---
 
-Hello world!
-
-Write some words here!
+I'm using this space to accumulate notes on [[game development]], [[Godot]], and anything else that might tickle my fancy.

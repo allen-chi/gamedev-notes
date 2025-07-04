@@ -1,1 +1,32 @@
-{}
+{
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./attachments",
+  "showLineNumber": true,
+  "newLinkFormat": "absolute",
+  "mobileToolbarCommands": [
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:insert-wikilink",
+    "editor:undo",
+    "templater-obsidian:jump-to-next-cursor-location",
+    "switcher:open",
+    "editor:attach-file",
+    "editor:toggle-blockquote",
+    "editor:toggle-highlight",
+    "editor:redo",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar",
+    "editor:swap-line-up",
+    "editor:swap-line-down"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": false,
+  "readableLineLength": false,
+  "tabSize": 7,
+  "newFileLocation": "current",
+  "mobilePullAction": "templater-obsidian:jump-to-next-cursor-location"
+}

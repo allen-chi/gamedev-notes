@@ -1,1 +1,10 @@
-{}
+{
+  "accentColor": "",
+  "baseFontSize": 17,
+  "cssTheme": "Catppuccin",
+  "baseFontSizeAction": true,
+  "textFontFamily": "Aptos,Cascadia Code",
+  "monospaceFontFamily": "cascadia code",
+  "interfaceFontFamily": "Aptos",
+  "enabledCssSnippets": []
+}
